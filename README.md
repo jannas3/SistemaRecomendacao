@@ -1,2 +1,2 @@
 # SistemaRecomendacao
-[https://sistemarecomendacao-cdlzchzptmesxncteeyk8q.streamlit.app/](URL)
+https://sistemarecomendacao-cdlzchzptmesxncteeyk8q.streamlit.app/
